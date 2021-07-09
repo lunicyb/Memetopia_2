@@ -8,7 +8,7 @@
 	"version" : "2",
 	"color" : "0 0.44 1",
 	"image" : "memetopia.png", 
-	"simple_update_url" : "https://github.com/TheOnlyLegoCaptain/Memetopia/archive/refs/heads/master.zip",
+	"simple_update_url" : "https://github.com/TheOnlyLegoCaptain/Memetopia_2/archive/refs/heads/main.zip",
 	"hooks" : [
         	{	
 			"hook_id" : "lib/managers/menumanager", 
