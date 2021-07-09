@@ -1,0 +1,18 @@
+{
+	"blt_version" : 2,
+	"name" : "Memetopia",
+	"description" : "You can't have that many memes. Wait, that's illegal!",
+	"author" : "Adam 'TheOnlyLegoCaptain' Buchsbaum",
+	"contact" : "\n steamcommunity.com/groups/memetopia-payday2-mod",
+	"priority" : 420,
+	"version" : "2",
+	"color" : "0 0.44 1",
+	"image" : "memetopia.png", 
+	"simple_update_url" : "https://github.com/TheOnlyLegoCaptain/Memetopia/archive/refs/heads/master.zip",
+	"hooks" : [
+        	{	
+			"hook_id" : "lib/managers/menumanager", 
+    			"script_path" : "memetopia.lua"
+		}
+	]
+}
